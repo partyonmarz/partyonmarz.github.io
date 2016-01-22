@@ -158,7 +158,7 @@ img {
 }
 
 header {
-  width:420px;
+  width:400px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -292,7 +292,8 @@ footer {
     padding:0;
   }
 
-  header ul, header p.view {
+  
+   ul, header p.view {
     position:static;
   }
 
