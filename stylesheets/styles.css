@@ -126,7 +126,7 @@ code, pre {
 }
 
 pre {
-  padding:8px 5px;
+  padding:8px 15px;
   background: #f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
@@ -262,7 +262,7 @@ footer {
   }
 
   header {
-    padding-right:300px;
+    padding-right:290px;
   }
 
   section {
