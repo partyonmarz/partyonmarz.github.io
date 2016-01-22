@@ -87,6 +87,11 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+h7 {
+  color:#939393;
+  font-size:9px;
+}
+
 a {
   color:#39c;
   text-decoration:none;
