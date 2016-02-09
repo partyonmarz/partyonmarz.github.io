@@ -93,6 +93,10 @@ h7 {
   font-size:13px;
 }
 
+h8 {
+  position:fixed;
+}
+
 a {
   color:#393939;
   text-decoration:none;
