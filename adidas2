@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="icon"
+          type="image/jpg"
+          href="https://cloud.githubusercontent.com/assets/8893022/12510629/30baadc2-c0c0-11e5-933b-52cce0384811.jpg">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		<title>adidas</title>
+		<link rel="stylesheet" href="stylesheets/styles.css">
+		<link rel="stylesheet" href="stylesheets/github-light.css">
+		<meta name="viewport" content="width=device-width">
+    	<!--[if lt IE 9]>
+    	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    	<![endif]-->
+    	</head>
+    	<body>
+    		<div class="wrapper">
+    		<header>
+    		<a href="http://partyonmarz.github.io"><h1>adidas</h1></a>
+            <img src="https://66.media.tumblr.com/3125b3e74ba51aaa7017dec1715f9151/3bcd2f49238f352b-82/s500x750/1be36d91e646e863d98b941ef3d2f3226d6a5640.jpg"><p>
+            <font size="2">Worked as the IT Asset Manager / IT Support Engineer for <b>adidas</b>.  Handled on boarding and off boarding IT Asset Management tasks using ServiceNow software.  Assisted with standard tier 2 IT issues like VPN issues, TPM/TMD problems, standard troubleshooting issues for MAC and Windows systems and various problems as they arised for users.  Handled the imaging and deployment for existing users throughout all of North America.  Used SCCM and Software Center to push necessary software and updates to users.  Provided remote support for users using Bomgar.  Helped restore Macs using JAMF and reassign to users in the adidas environment.</font>
+    		</header>
+    		<section>
+    		</section>
+		<h2><img src="https://66.media.tumblr.com/89196191c5d35cab8e9aa933b542854d/53c2f1a8619fcd64-e7/s540x810/32a580e2e150a92e82841a38861d02223d5a7c10.jpg"></h2>
+    	</div>
+    	<script src="javascript/scale.fix.js"></script>
+
+    </body>
+</html>
